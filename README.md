@@ -21,16 +21,16 @@ See a [demo](http://renyuanz.github.io/leonids/) hosted on GitHub pages.
 
 ### Vercel.com deploy button
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Frenyuanz%2Fleonids)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2chukwuka-emi%2blog-site)
 
 ### Netlify CMS deploy button
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/renyuanz/leonids&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/chukwuka-emi/blog-site&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
 ## Local development setup
 
 ```
-gatsby new my-blog https://github.com/renyuanz/leonids
+gatsby new my-blog https://github.com/chukwuka-emi/blog-site
 cd my-blog
 gatsby develop
 ```
