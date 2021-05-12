@@ -123,7 +123,7 @@ const Layout = ({ location, title, children }) => {
       <div>
         I write about Software development and computer programming
         <br />
-        Visit my
+        Visit my{" "}
         <Link
           style={{ textDecoration: "none !important" }}
           to="https://chukwukaemi.netlify.app"
