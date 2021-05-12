@@ -124,6 +124,8 @@ button {
   .sidebar {
     overflow-y: hidden;
     background-image: none;
+    position: unset;
+    z-index: 0;
   }
   .p-4 {
     padding: 0;
