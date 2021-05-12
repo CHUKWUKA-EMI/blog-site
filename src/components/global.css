@@ -9,6 +9,7 @@ body {
   --hr: hsla(0, 20%, 1%, 0.2);
 
   background-color: var(--bg);
+  width: 100%;
 }
 
 body.dark {
@@ -95,6 +96,7 @@ button {
   z-index: 10;
   padding: 0 20px 0;
   margin-left: 0;
+  width: 100%;
 }
 
 .btn {
@@ -122,5 +124,8 @@ button {
   .sidebar {
     overflow-y: hidden;
     background-image: none;
+  }
+  .p-4 {
+    padding: 0;
   }
 }
