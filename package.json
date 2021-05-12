@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Chukwuka Emi <emichukwuka@gmail.com>",
   "bugs": {
-    "url": "https://github.com/chukwuka-emi/issues"
+    "url": "https://github.com/chukwuka-emi/blog-site/issues"
   },
   "dependencies": {
     "gatsby": "^2.24.47",
@@ -42,7 +42,6 @@
     "prettier": "2.0.5",
     "tailwindcss": "^1.6.2"
   },
-  "homepage": "https://github.com/renyuanz/leonids#readme",
   "keywords": [
     "gatsby"
   ],
@@ -50,7 +49,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/renyuanz/leonids.git"
+    "url": "git@github.com:CHUKWUKA-EMI/blog-site.git"
   },
   "scripts": {
     "build": "gatsby build",
